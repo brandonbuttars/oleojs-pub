@@ -1,0 +1,27 @@
+{
+  "name": "oleojs-pub",
+  "version": "1.0.0",
+  "description": "Pub/Sub module used within the OLEO projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "http-server . -p 4321"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonbuttars/oleojs-pub.git"
+  },
+  "keywords": [
+    "js",
+    "pubsub"
+  ],
+  "author": "Brandon Buttars <brandonbuttars@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonbuttars/oleojs-pub/issues"
+  },
+  "homepage": "https://github.com/brandonbuttars/oleojs-pub#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
